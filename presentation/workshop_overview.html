@@ -15,10 +15,10 @@
 !-->
 		<meta charset="utf-8">
 
-		<title>reveal.js - The HTML Presentation Framework</title>
+		<title>Design Patterns for the Laboratory</title>
 
-		<meta name="description" content="A framework for easily creating beautiful presentations using HTML">
-		<meta name="author" content="Hakim El Hattab">
+		<meta name="description" content="Pattern mining workshop guide">
+		<meta name="author" content="Cameron McLean">
 
 		<meta name="apple-mobile-web-app-capable" content="yes" />
 		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
@@ -53,120 +53,113 @@
 
 			<!-- Any section element inside of this container is displayed as a slide -->
 			<div class="slides">
+
 				<section>
 					<h1>Pattern Mining</h1>
-					<h3>HTML Presentations Made Easy</h3>
+					<h3>Uncovering the hidden structure of lab work</h3>
 					<p>
-						<small>Created by <a href="http://hakim.se">Hakim El Hattab</a> / <a href="http://twitter.com/hakimel">@hakimel</a></small>
+						<small><a href="http://about.me/cameron_mclean">Cameron McLean</a> / <a href="http://twitter.com/cammerschooner">@cammerschooner</a><br> <br> <br>
+							<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</small>
 					</p>
 				</section>
 
-				<section>
-					<h2>Heads Up</h2>
-					<p>
-						reveal.js is a framework for easily creating beautiful presentations using HTML. You'll need a browser with
-						support for CSS 3D transforms to see it in its full glory.
-					</p>
-
-					<aside class="notes">
-						Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit 's' on your keyboard).
-					</aside>
-				</section>
-
-				<!-- Example of nested vertical slides -->
-				<section>
-					<section>
-						<h2>Vertical Slides</h2>
-						<p>
-							Slides can be nested inside of other slides,
-							try pressing <a href="#" class="navigate-down">down</a>.
-						</p>
-						<a href="#" class="image navigate-down">
-							<img width="178" height="238" src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow">
-						</a>
-					</section>
-					<section>
-						<h2>Basement Level 1</h2>
-						<p>Press down or up to navigate.</p>
-					</section>
-					<section>
-						<h2>Basement Level 2</h2>
-						<p>Cornify</p>
-						<a class="test" href="http://cornify.com">
-							<img width="280" height="326" src="https://s3.amazonaws.com/hakim-static/reveal-js/cornify.gif" alt="Unicorn">
-						</a>
-					</section>
-					<section>
-						<h2>Basement Level 3</h2>
-						<p>That's it, time to go back up.</p>
-						<a href="#/2" class="image">
-							<img width="178" height="238" src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Up arrow" style="-webkit-transform: rotate(180deg);">
-						</a>
-					</section>
-				</section>
 
 				<section>
-					<h2>Slides</h2>
-					<p>
-						Not a coder? No problem. There's a fully-featured visual editor for authoring these, try it out at <a href="http://slid.es" target="_blank">http://slid.es</a>.
-					</p>
-				</section>
-
-				<section>
-					<h2>Point of View</h2>
-					<p>
-						Press <strong>ESC</strong> to enter the slide overview.
-					</p>
-					<p>
-						Hold down alt and click on any element to zoom in on it using <a href="http://lab.hakim.se/zoom-js">zoom.js</a>. Alt + click anywhere to zoom back out.
-					</p>
-				</section>
-
-				<section>
-					<h2>Works in Mobile Safari</h2>
-					<p>
-						Try it out! You can swipe through the slides and pinch your way to the overview.
-					</p>
-				</section>
-
-				<section>
-					<h2>Marvelous Unordered List</h2>
+					<h2>What are we doing?<br>What do we hope to achieve?</h2><br>
 					<ul>
-						<li>No order here</li>
-						<li>Or here</li>
-						<li>Or here</li>
-						<li>Or here</li>
+						<li>Collaboratively reflect on the challenges we face at the bench, and the methods we use to address them.</li><br>
+						<li>We want to capture expertise and make it available to wider audiences</li><br>
+						<li>We hope to extract transferable and verifyable elements of <strong>experimental design</strong> knowledge.</li>
+					</ul>									
+				</section>
+
+				
+				<section>
+					
+					<section>					
+						<h2>What is a Design Pattern?</h2><br>
+						<img src="images/pattern_language.jpeg"><br>
+					<a href="https://www.patternlanguage.com/">Christopher Alexander</a>
+					</section>	
+					
+					<section>
+						<blockquote cite="A Pattern Language, p xiii">
+						&ldquo;Each pattern is a relationship between a certain <strong>context</strong>, a certain system of <strong>forces</strong> which occurs repeatedly in that context, and a certain <strong>spacial configuration</strong> which allows these forces to resolve themselves.&rdquo;
+					</blockquote>
+					</section>
+
+					<section>
+						<h3>Context, Forces, Spacial Configuration of a Lab Expt.</h3>
+					<img src="images/forces2.png"><br>
+					<small>Live Imaging CC-BY-NC-SA 2.0<a href="https://www.flickr.com/photos/emsl/"> EMSL</a></small>
+					</section>
+
+					<section>
+					<h3>Pattern concepts give us design level insight</h2><br><br>
+					<p>Mount larvae on their sides in 1.5% low melting point <br><strong style="color: purple;">agarose <img src="images/immobilise.png"></strong> in a <strong style="color: purple;">glass</strong>-bottom dish <img src="images/transmission.png"> filled with 0.3% Danieau's solution containing 0.01 mg/ml <strong style="color: purple;">Tricane <img src="images/viable.png"><img src="images/immobilise.png"></strong>...  <br><br>
+					</p>
+					</section>
+
+				</section>	
+					
+
+				<section>
+					<h2>The Rules</h2>
+					<ul>
+						<li>You are an expert, you know the answers - use your experience and reflect.</li>
+						<li>Use others feedback to help clarify what you mean, or to reveal something hidden or assumed.</li>
+						<li>We all have the same frustrations in the lab - this a permissive environment - it's safe to share.</li>
+						<li>It's OK to not know something (It's a bit like drawing a bicycle!).</li>
+						<li>Ideas are good. Questions are good.</li>
+						<li>If you get stuck - just put in a placeholder and move on.</li>
+						<li>We are not expecting a masterpiece. Bullet points are great.</li>
+						<li>Sometimes the tasks can be difficult. But it should be fun too! Remember to smile :)</li>
 					</ul>
 				</section>
 
 				<section>
-					<h2>Fantastic Ordered List</h2>
-					<ol>
-						<li>One is smaller than...</li>
-						<li>Two is smaller than...</li>
-						<li>Three!</li>
-					</ol>
+					<h2>The Process</h2><br>
+					<ul>
+						<li>Only approximately linear. Switch back and forth often.</li><br>
+						<li>We want to shift from the specifics of your protocol to the underlying structure.</li><br>
+						<li>What <em>general</em> problem does it solve? Why does it work? What influences the choice/design of each important step.</li><br>
+						<li>Use your group, the internet, any resources you need!</li>
+					</ul>
 				</section>
 
-				<section data-markdown>
-					<script type="text/template">
-						## Markdown support
-
-						For those of you who like that sort of thing. Instructions and a bit more info available [here](https://github.com/hakimel/reveal.js#markdown).
-
-						```
-						<section data-markdown>
-						  ## Markdown support
-
-						  For those of you who like that sort of thing.
-						  Instructions and a bit more info available [here](https://github.com/hakimel/reveal.js#markdown).
-						</section>
-						```
-					</script>
+				<section>
+					<h2>A Note on Abstraction</h2><br>
+					<ul>
+						<li>Moving among levels of abstraction gives us deeper insight.</li></br>
+						<li>We want a broader view at the level of <em>system</em> behaviour.</li></br>
+						<li>The more ways we have of looking at a system, the more insight we can gather.</li>
+					</ul>
+					<br><br><br><small>See the abstraction handout</small>
 				</section>
 
-				<section id="transitions">
-					<h2>Transition Styles</h2>
+				<section>
+					<h2>Protocol Pictionary (5min)</h2><br>
+					<ul>
+						<li>Draw the essence of what your protocol is doing.</li>
+						<li>Try not to just draw the steps - capture the key ideas and arrangements in time and space.</li>
+						<li>Use <strong style="color: red;">c</strong><strong style="color: orange;">o</strong><strong style="color: blue;">l</strong><strong style="color: purple;">o</strong><strong style="violet: red;">u</strong><strong style="color: green;">r</strong><strong style="color: pink;">s</strong>! Add words and labels!</li>
+					</ul><br><br><br>
+					<small>Use the Protocol Pictionary sheet!</small>
+				</section>
+
+				<section>
+					<h3>Analysis and Shared Experience 15min +</h3>
+						<ul>
+							<li>Think about the background to your protocol.</li>
+							<li>What things do you wish someone had told you before you started?</li>
+							<li>Imagine you are explaining your protocol to someone with no experience who has just joined the lab...</li>
+							</ul>
+							<br><br><br>
+					<small>Use the Analysis and Experience sheet</small>
+				</section>
+
+				<section >
+					<h3>Transition Styles</h3>
 					<p>
 						You can select from different transitions, like: <br>
 						<a href="?transition=cube#/transitions">Cube</a> -
@@ -382,7 +375,7 @@ function linkify( selector ) {
 				center: true,
 
 				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
-				transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+				transition: Reveal.getQueryHash().transition || 'concave', // default/cube/page/concave/zoom/linear/fade/none
 
 				// Parallax scrolling
 				// parallaxBackgroundImage: 'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg',

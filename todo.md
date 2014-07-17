@@ -14,7 +14,7 @@ Design variables are interdependent. If we change this, what effect does it have
 
 How can I test the pattern? (Empirically)  
 
-Strive to ensure each pattern could conceivable used alon (break large protocol into sub sections/goals)
+Strive to ensure each pattern could conceivable used alone (break large protocol into sub sections/goals)
 
 Name patterns by task, problem they solve. eg In vivo Live Imaging (not Photons alive) - helps user find pattern by task, and use in conversation.
 
