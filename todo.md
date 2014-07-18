@@ -34,6 +34,6 @@ Capture the context and rationale for design decisions.. these refelct expert th
 
 Add highlighted notes from scrivener.
 
- 
+Aside from abstraction, need to encourage critial refecltion, thinking 
 
 

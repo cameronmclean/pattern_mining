@@ -9,17 +9,21 @@ what we are trying to achieve.
 >in a way that is intuitive, and supports the task of experimental design and 
 >solving problems at the bench.
 
-The workshop is all about thinking of the design of lab procedures, the ways we
-do things, and the reasons for the ways we do things in a successful 
+The workshop is all about thinking of the _design_ of lab procedures, the ways 
+we do things, and the reasons for the ways we do things in a successful 
 experiment.
+
+We might (will!) have different experiences about what is important for a given 
+protocol. This is good. The point of patterns is to start with experience and
+work towards more objective, testable, and deeper truths.
 
 ##The Presentation (Workshop Guidance)
 
 Introduction to design patterns is kept relatively short - one shouldn't need 
-to become a pattern expert before we dive into extracing expert knowledge and
+to become a pattern expert before we dive into extracting expert knowledge and
 the salient features of a lab senario. 
 
-We have the precious time of practitioners in the room - they don't need a
+We have the precious time of practitioners in the room - they don't need a long
 seminar on the life, works, and influence of Christopher Alexander.
 
 The workshop is designed to step through various activities without too much
@@ -75,8 +79,8 @@ used.
 
 
 ###Abstracting the 'whats' and 'whys'
-Forces (why's) can be anything - social, technical, economic, physical
-We want to enumerate all the 'forces' in the protcol. Some forces will 
+Forces (why's) can be anything - social, technical, economic, physical...
+We want to enumerate all the 'forces' in the protocol. Some forces will 
 repeatedly occur. Some 'forces' may be present, but not end up being part of 
 the final pattern - of all the variables, only some will form the important 
 subsystem. By using existing protocols, we are starting with positive examples.
@@ -90,11 +94,14 @@ We dont want to spend too long on the pictorgrams though - time is limited,
 and elucidating the concepts is more important. 
 
 
+####Defining the problem
+This gets us to the true forces. The problem defines the field of forces.
+
 
 ###Graphing the forces
 The idea here is to try and express the general problem that the protocol 
 solves as a network of forces, diagramatically. From the previous exercise
-there are likely important variables that interact - i.e the need to completely
+there are likely important variables that interact - e.g. the need to completely
 immobilise a live sample for imaging but also keep it alive and happy.
 
 We want to try and sketch out here all the 'forces' involved in the procedure
@@ -105,6 +112,11 @@ problem _and_ its solution.
 
 As with the previous section, nounproject and google images can be used to
 inspire quick icon sketches. 
+
+Precicely defining how all the forces can interact can be difficult.
+Sometimes its a maximally connected graph.
+The connections dont have to be perfect for our purposes, just try and 
+approximate. 
 
 
 
