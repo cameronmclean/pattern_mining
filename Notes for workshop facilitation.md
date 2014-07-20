@@ -17,11 +17,14 @@ We might (will!) have different experiences about what is important for a given
 protocol. This is good. The point of patterns is to start with experience and
 work towards more objective, testable, and deeper truths.
 
+The notes here are complimentary and _additional_ to the brief instructions on 
+the slides.
+
 ##The Presentation (Workshop Guidance)
 
 Introduction to design patterns is kept relatively short - one shouldn't need 
 to become a pattern expert before we dive into extracting expert knowledge and
-the salient features of a lab senario. 
+the salient features of a lab scenario. 
 
 We have the precious time of practitioners in the room - they don't need a long
 seminar on the life, works, and influence of Christopher Alexander.
@@ -35,47 +38,45 @@ to annotate other protocols.
 
 Some of the activities ask similar questions - it is OK to repeat responses. 
 
+
 ###Abstraction
 Merely abstracting and generalising a protocol is not necessarily a pattern.
 But it helps.
-Abstraction helps us focus on the critical feature(s) of entitites in the
-contex. We then ask 'why this?' Generalisation makes the concepts transferable.
+Abstraction helps us focus on the critical feature(s) of entities in the
+context. We then ask 'why this?' generalisation makes the concepts transferable.
 
 Some people really struggle with making abstractions. That's cool. 
-We dont expect every person or group to fly through and make a pattern at the
+We don't expect every person or group to fly through and make a pattern at the
 end. It very much depends on the protocol selected, background knowledge,
 individuals cognitive styles, caffination levels etc.. Encourage those who 
-seem to be struggling or disheartend to act as an audience or reader so others
+seem to be struggling or disheartened to act as an audience or reader so others
 can test or improve the clarity of their explanations.
-
 
 
 ###Protocol Pictionary
 This exercise is ~5-10mins
 Encourage abstract thinking, have fun.
 Allow a few mins at the end - 
-Help break the ice by having participants explain to thier group what their 
-picture is, the essense of what their protcol does....
+Help break the ice by having participants explain to their group what their 
+picture is, the essence of what their protocol does....
 
-At this point, it may be obvious that some protocls are too large.
+At this point, it may be obvious that some protocols are too large.
 If so - 
-For the next sections, have the particpants choose a subprotocol - 
-a potentailly reusable chunk that they are familiary with.
+For the next sections, have the participants choose a subprotocol - 
+a potentially reusable chunk that they are familiar with.
 eg. antibody selection for the task, rather than (animal>Ab>section>histology>
 analysis>....)
-
 
 
 ###Analysis and Shared Experience
 This exercise is ~15 solo, then a few more minutes collective thinking.
 Here we aim to get at the context, think about the general type of 
-problem the protocol is an answer to. We start with critial refelction
-from those most familiar with the procedure. We aim to articualte at a 
-higher level, the fucntional purpose of the protocol, and the context
+problem the protocol is an answer to. We start with critical reflection
+from those most familiar with the procedure. We aim to articulate at a 
+higher level, the functional purpose of the protocol, and the context
 around it. In discussion with other group members, who may also have experience
-collect tips and tricks, and scenarions where this type of protocol can be
+collect tips and tricks, and scenarios where this type of protocol can be
 used.   
-
 
 
 ###Abstracting the 'whats' and 'whys'
@@ -85,39 +86,68 @@ repeatedly occur. Some 'forces' may be present, but not end up being part of
 the final pattern - of all the variables, only some will form the important 
 subsystem. By using existing protocols, we are starting with positive examples.
 It is also possible to find forces by starting with negative examples and ask
-why it didnt work (what forces were not resolved). This is powerful, but it is
+why it didn't work (what forces were not resolved). This is powerful, but it is
 harder to find negative examples in the literature. 
 
-For drawing icons, some cocnepts are nearly impossible. Google images for ideas
+For drawing icons, some concepts are nearly impossible. Google images for ideas
 or nounproject for CC licensed pictograms is a good source for inspiration.
-We dont want to spend too long on the pictorgrams though - time is limited,
+We don't want to spend too long on the pictograms though - time is limited,
 and elucidating the concepts is more important. 
 
 
 ####Defining the problem
-This gets us to the true forces. The problem defines the field of forces.
+This gets us closer to the true forces. The problem defines the field of 
+forces. The problem definition sets up the pattern format, helps us think
+about the context, which forces are important, and how the force are resolved.
+
+Thinking about the general problem that our protocol solves gets us to a more
+abstract, reusable set of concepts.
 
 
 ###Graphing the forces
 The idea here is to try and express the general problem that the protocol 
-solves as a network of forces, diagramatically. From the previous exercise
-there are likely important variables that interact - e.g. the need to completely
-immobilise a live sample for imaging but also keep it alive and happy.
+solves as a network of forces, diagrammatically. From the previous exercise
+there are likely important variables that interact - e.g. the need to 
+completely immobilise a live sample for imaging but also keep it alive and 
+happy.
 
 We want to try and sketch out here all the 'forces' involved in the procedure
 and show which ones interact.
 
 Our protocol solves a problem, the 'forces' are the things that shape the 
-problem _and_ its solution. 
+problem _and_ its solution. They are the things we have to address.
 
 As with the previous section, nounproject and google images can be used to
 inspire quick icon sketches. 
 
-Precicely defining how all the forces can interact can be difficult.
+Precisely defining how all the forces can interact can be difficult.
 Sometimes its a maximally connected graph.
-The connections dont have to be perfect for our purposes, just try and 
+The connections don't have to be perfect for our purposes, just try and 
 approximate. 
 
+
+###Pattern Template
+Woo Hoo! Were nearly done. Next it remains to try and consolidate all the info
+we have just extracted into a pattern like format. Patterns are more sharable,
+critique-able, human friendly to read. 
+
+We need to spend some to justify and explain the rationale and supporting info
+for the important elements - to show that our pattern is recurring, general and
+"real". The rationale is also critical to help others understand 'why', to 
+apply the pattern themselves, and provide scientific evidence from the 
+literature so we can justify the pattern concepts and test them.
+
+
+###Done!
+Enough for one day. It's all quite demanding on the brain - folks are probably
+exhausted. Next we need to collate and add the collected info the website.
+And design pictograms, etc. Still lots to do, but we should now have plenty of
+raw material and knowledge dumps to further shape, and craft into potential
+patterns. 
+
+Ensure to follow up with participants if they indicate the are keen. It's nice 
+to know their efforts are valued, being build on, and helpful. Ideally they can
+contribute and refine things further if they are so motivated. 
 
 
 ###References, other info...
