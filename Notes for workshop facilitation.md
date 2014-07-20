@@ -13,6 +13,22 @@ The workshop is all about thinking of the _design_ of lab procedures, the ways
 we do things, and the reasons for the ways we do things in a successful 
 experiment.
 
+>Our tools to support science typically neglect the process in which physical
+>experiments are actually designed. An experiment has specific goals, and also
+>constraints (time, cost, manpower...), and requires access to specific 
+>resources. The ability to design an experiment that optimally addresses all
+>these concerns is critical part of scientific problem solving. 
+>
+>Normally we design experiments informally, and specify them in lab books or 
+>loose notes. We need capabilities to assist scientists in identifying 
+>resources, specifying, maintaining, and sharing experimental design. The 
+>capability to navigate and mange the process would be great.
+
+######Chin, G., Schuchardt, K., Myers, J., & Gracio, D. (2000). Participatory 
+######workflow analysis: Unveiling scientific research processes with scientists.
+
+
+
 We might (will!) have different experiences about what is important for a given 
 protocol. This is good. The point of patterns is to start with experience and
 work towards more objective, testable, and deeper truths.
@@ -28,6 +44,10 @@ the salient features of a lab scenario.
 
 We have the precious time of practitioners in the room - they don't need a long
 seminar on the life, works, and influence of Christopher Alexander.
+
+We briefly show a motivating example of how we can specify the 'forces' 
+operating in a live imaging experiment, and how annotation of a method 
+description can be useful for searching or deeper understanding.
 
 The workshop is designed to step through various activities without too much
 preamble, and hopefully at the end we will have arrived at enough raw material
