@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1488.189"
+   height="1052.3622"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="pattern_template_example.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2312549"
+     inkscape:cx="1159.8443"
+     inkscape:cy="261.7857"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1624"
+     inkscape:window-height="1021"
+     inkscape:window-x="202"
+     inkscape:window-y="92"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,2.988066e-5)">
+    <rect
+       style="fill:#f4eed7;fill-opacity:1;stroke:none"
+       id="rect3819"
+       width="1488.3066"
+       height="1052.2727"
+       x="0"
+       y="0.08432512" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.99999994;stroke-opacity:0.23555555"
+       id="rect2985"
+       width="681.38495"
+       height="311.17395"
+       x="54.539307"
+       y="251.24448"
+       ry="10"
+       rx="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="58.491653"
+       y="84.647865"
+       id="text5424"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5426"
+         x="58.491653"
+         y="84.647865">Design Pattern Template</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#0100ff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:0.37333332;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5428"
+       width="1384.2269"
+       height="62.282829"
+       x="52.495728"
+       y="947.2511"
+       ry="10" />
+    <rect
+       ry="7.1973176"
+       y="39.536659"
+       x="976.70569"
+       height="52.346798"
+       width="284.65701"
+       id="rect5430"
+       style="fill:#ffffff;fill-opacity:1;stroke:#9100ff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:0.37333332;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff00ff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:0.37333332;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5432"
+       width="284.65701"
+       height="52.346798"
+       x="669.51007"
+       y="40.329834"
+       ry="7.1973176" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5434"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.30222222;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="matrix(0.96660192,0,0,0.92536938,142.44679,0.354345)"><flowRegion
+         id="flowRegion5436"><rect
+           id="rect5438"
+           width="263.64978"
+           height="67.680214"
+           x="553.5636"
+           y="47.260399"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.30222222;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+         id="flowPara5440">Your Name</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.96660192,0,0,0.92536938,448.84509,-0.4576167)"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.30222222;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       id="flowRoot5442"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5444"><rect
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.30222222;font-family:Sans;-inkscape-font-specification:Sans"
+           y="47.260399"
+           x="553.5636"
+           height="67.680214"
+           width="263.64978"
+           id="rect5446" /></flowRegion><flowPara
+         id="flowPara5448">Protocol Name</flowPara></flowRoot>    <flowRoot
+       transform="translate(-483.46123,240.80765)"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:0.30222221999999999;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       id="flowRoot5458"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5460"><rect
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:0.30222221999999999;font-family:Sans;-inkscape-font-specification:Sans"
+           y="47.260399"
+           x="553.5636"
+           height="74.443832"
+           width="638.26263"
+           id="rect5462" /></flowRegion><flowPara
+         id="flowPara5470">Specify the scientific or laboratory context for the pattern. Try to be precise. </flowPara><flowPara
+         id="flowPara7881">What situations does this pattern cover?</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.96660192,0,0,1.2007935,-468.98178,893.81122)"
+       style="font-size:12.99481332px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:0.30222221999999999;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       id="flowRoot5607"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5609"><rect
+           style="font-size:12.99481332px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:0.30222221999999999;font-family:Sans;-inkscape-font-specification:Sans"
+           y="47.260399"
+           x="553.5636"
+           height="38.288063"
+           width="685.69226"
+           id="rect5611" /></flowRegion><flowPara
+         id="flowPara5613">Group contributors, questions, placeholders, ideas, feedback...</flowPara></flowRoot>    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.99999988;stroke-opacity:0.23555555"
+       id="rect2985-6"
+       width="1372.8392"
+       height="130.84448"
+       x="55.572838"
+       y="108.60189"
+       ry="10" />
+    <rect
+       style="fill:#000000;fill-opacity:0.00888887;stroke:#ff7810;stroke-width:1;stroke-miterlimit:4;stroke-opacity:0.63111117;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3457"
+       width="98.77919"
+       height="98.77919"
+       x="1306.6085"
+       y="123.74304"
+       ry="10.75" />
+    <flowRoot
+       transform="matrix(0.96660192,0,0,0.92536938,780.64501,82.796266)"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.30222222;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       id="flowRoot5712"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5714"><rect
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.30222222;font-family:Sans;-inkscape-font-specification:Sans"
+           y="47.260399"
+           x="553.5636"
+           height="81.333733"
+           width="71.148163"
+           id="rect5716" /></flowRegion><flowPara
+         id="flowPara5718">Icon</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5743"
+       style="font-size:14.80289459px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:0.30222221999999999;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="matrix(0.96660192,0,0,0.92536938,-464.39168,100.45891)"><flowRegion
+         id="flowRegion5745"><rect
+           id="rect5747"
+           width="982.56018"
+           height="39.13195"
+           x="553.5636"
+           y="47.260399"
+           style="font-size:14.80289459px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:0.30222221999999999;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+         id="flowPara5749">Suggest some short names for the pattern that captures the essence and the function or tasks in the laboratory.</flowPara><flowPara
+         id="flowPara7879">Draw some icons that might represent the pattern as a whole.</flowPara></flowRoot>    <rect
+       ry="10.75"
+       y="123.74304"
+       x="1194.6085"
+       height="98.77919"
+       width="98.77919"
+       id="rect5821"
+       style="fill:#000000;fill-opacity:0.00888887;stroke:#ff7810;stroke-width:1;stroke-miterlimit:4;stroke-opacity:0.63111117;stroke-dasharray:none;stroke-dashoffset:0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5823"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.30222222;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="matrix(0.96660192,0,0,0.92536938,668.64501,82.796266)"><flowRegion
+         id="flowRegion5825"><rect
+           id="rect5827"
+           width="71.148163"
+           height="81.333733"
+           x="553.5636"
+           y="47.260399"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.30222222;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+         id="flowPara5829">Icon</flowPara></flowRoot>    <rect
+       style="fill:#000000;fill-opacity:0.00888887;stroke:#ff7810;stroke-width:1;stroke-miterlimit:4;stroke-opacity:0.63111117;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5831"
+       width="98.77919"
+       height="98.77919"
+       x="1082.6084"
+       y="123.74304"
+       ry="10.75" />
+    <flowRoot
+       transform="matrix(0.96660192,0,0,0.92536938,556.64501,82.796266)"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.30222222;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       id="flowRoot5833"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5835"><rect
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.30222222;font-family:Sans;-inkscape-font-specification:Sans"
+           y="47.260399"
+           x="553.5636"
+           height="81.333733"
+           width="71.148163"
+           id="rect5837" /></flowRegion><flowPara
+         id="flowPara5839">Icon</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="71.212906"
+       y="137.26909"
+       id="text7895"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7897"
+         x="71.212906"
+         y="137.26909">Pattern title</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7899"
+       y="279.9921"
+       x="71.172745"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="279.9921"
+         x="71.172745"
+         id="tspan7901"
+         sodipodi:role="line">Context</tspan></text>
+    <rect
+       rx="10"
+       ry="6.3457441"
+       y="575.44556"
+       x="54.539322"
+       height="197.46301"
+       width="681.38495"
+       id="rect7903"
+       style="fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.99999988;stroke-opacity:0.23555555" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7905"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:0.30222221999999999;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="translate(-483.46127,569.60308)"><flowRegion
+         id="flowRegion7907"><rect
+           id="rect7909"
+           width="638.26263"
+           height="74.443832"
+           x="553.5636"
+           y="47.260399"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:0.30222221999999999;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+         id="flowPara7913">Write a concise description of the probem. Define the problem as a conflict of</flowPara><flowPara
+         id="flowPara7921">'forces' that dominate the situation (in this context).</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="71.172745"
+       y="608.78754"
+       id="text7915"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7917"
+         x="71.172745"
+         y="608.78754">Problem</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.99999988;stroke-opacity:0.23555555"
+       id="rect7923"
+       width="681.38495"
+       height="145.77623"
+       x="54.539322"
+       y="787.06805"
+       ry="4.6847186"
+       rx="10" />
+    <flowRoot
+       transform="translate(-484.35284,772.90444)"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.30222222;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       id="flowRoot7939"
+       xml:space="preserve"><flowRegion
+         id="flowRegion7941"><rect
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.30222222;font-family:Sans;-inkscape-font-specification:Sans"
+           y="47.260399"
+           x="553.5636"
+           height="74.443832"
+           width="638.26263"
+           id="rect7943" /></flowRegion><flowPara
+         id="flowPara7947">Use bullet points to list all the forces that are part of the problem, and resolved by the solution.</flowPara></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text7949"
+       y="812.08893"
+       x="70.281174"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="812.08893"
+         x="70.281174"
+         id="tspan7951"
+         sodipodi:role="line">Forces</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7953"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion7955"><rect
+           id="rect7957"
+           width="362.95612"
+           height="45.94381"
+           x="133.23705"
+           y="821.49451" /></flowRegion><flowPara
+         id="flowPara7959"></flowPara></flowRoot>    <rect
+       rx="10"
+       ry="6.677949"
+       y="251.24448"
+       x="748.53931"
+       height="207.80037"
+       width="681.38495"
+       id="rect7963"
+       style="fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:1;stroke-opacity:0.23555555" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7965"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:0.30222221999999999;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="translate(210.53877,240.80765)"><flowRegion
+         id="flowRegion7967"><rect
+           id="rect7969"
+           width="638.26263"
+           height="74.443832"
+           x="553.5636"
+           y="47.260399"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:0.30222221999999999;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+         id="flowPara7973">Describe how to balance the forces that create the problem. Tell us what we have to do.</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="765.17273"
+       y="279.9921"
+       id="text7975"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7977"
+         x="765.17273"
+         y="279.9921">Solution</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:1;stroke-opacity:0.23555555"
+       id="rect7981"
+       width="681.38495"
+       height="300.83661"
+       x="748.53931"
+       y="472.15213"
+       ry="9.6677952"
+       rx="10" />
+    <flowRoot
+       transform="translate(210.53877,458.80765)"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.30222222;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       id="flowRoot7983"
+       xml:space="preserve"><flowRegion
+         id="flowRegion7985"><rect
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.30222222;font-family:Sans;-inkscape-font-specification:Sans"
+           y="47.260399"
+           x="553.5636"
+           height="74.443832"
+           width="638.26263"
+           id="rect7987" /></flowRegion><flowPara
+         id="flowPara7989">Elaborate on the reasoning behind how the solution balances the forces.</flowPara><flowPara
+         id="flowPara7995">Note theoretical or empirical support. Reference theories, examples, web resources, pulications etc...</flowPara></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text7991"
+       y="497.99207"
+       x="765.17273"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="497.99207"
+         x="765.17273"
+         id="tspan7993"
+         sodipodi:role="line">Support and rationale</tspan></text>
+    <rect
+       rx="10"
+       ry="4.6847186"
+       y="787.06805"
+       x="748.53931"
+       height="145.77623"
+       width="681.38495"
+       id="rect7997"
+       style="fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.99999988;stroke-opacity:0.23555555" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7999"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.30222222;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="translate(207.64716,772.90444)"><flowRegion
+         id="flowRegion8001"><rect
+           id="rect8003"
+           width="638.26263"
+           height="74.443832"
+           x="553.5636"
+           y="47.260399"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.30222222;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+         id="flowPara8005">Specify any conditions or consequences that arise from using thus pattern.</flowPara><flowPara
+         id="flowPara8011">Suggest any potential patterns that might be related, or arise before, alongside or after this one...</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="762.28119"
+       y="812.08893"
+       id="text8007"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8009"
+         x="762.28119"
+         y="812.08893">Resulting contex/related patterns</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="748.88409"
+       y="78.353371"
+       id="text8108"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8110"
+         x="748.88409"
+         y="78.353371">Siouxsie</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="996.98071"
+       y="76.056175"
+       id="text8112"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8114"
+         x="996.98071"
+         y="76.056175">Biophotonic Imaging</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8135"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Medium"
+       transform="translate(133.23705,19.52609)"><flowRegion
+         id="flowRegion8137"><rect
+           id="rect8139"
+           width="691.45435"
+           height="159.65474"
+           x="-49.389595"
+           y="167.94383"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Medium" /></flowRegion><flowPara
+         id="flowPara8141">Biophotonic Imaging / Photon based Live Imaging / Photons Alive </flowPara></flowRoot>    <image
+       y="125.98396"
+       x="1082.5149"
+       id="image8151"
+       xlink:href="data:image/png;base64,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
+oloA+P1XrwAAAABJRU5ErkJggg==
+"
+       height="100"
+       width="100"
+       inkscape:transform-center-x="-149.31738" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="835.90448"
+       y="991.41492"
+       id="text8154"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="835.90448"
+         y="991.41492"
+         id="tspan8160">Icons from the Noun Project  CC-BY - Rat, Timothy Dilich - Light bulb, Chris Brunskill</tspan></text>
+    <flowRoot
+       transform="translate(121.7511,493.89593)"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Medium"
+       id="flowRoot8166"
+       xml:space="preserve"><flowRegion
+         id="flowRegion8168"><rect
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Medium"
+           y="167.94383"
+           x="-49.389595"
+           height="112.56233"
+           width="546.73132"
+           id="rect8170" /></flowRegion><flowPara
+         id="flowPara8172">We want to measure and locate a biological entity or process within living cells or a model small animal system. We need to keep the animal or sample alive and make dynamic, realtime, quantifiable, and non-destructive repetitive measurements in situ.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8174"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Medium"
+       transform="translate(122.89969,169.99207)"><flowRegion
+         id="flowRegion8176"><rect
+           id="rect8178"
+           width="628.28162"
+           height="184.92383"
+           x="-49.389595"
+           y="167.94383"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Medium" /></flowRegion><flowPara
+         id="flowPara8180">Biological investigations requiring living organisms - especially mammalian systems - can be expensive in terms of scientific resources needed to establish and maintain them, and they often come with ethical considerations for animal wellbeing. They are essential however in order to understand complex processes in a natural setting, and we often need to visualise and measure entities or processes occurring withing living cells, tissues, or small organisms in a non-intrusive manner that gives maximal information for minimal cost. This pattern deals with how to capture quantitative, spatiotemporal information within a living organism for in vitro tissue culture systems and model systems involving small animals that are amenable to manipulation. </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8182"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Medium"
+       transform="translate(152.76317,688.00853)"><flowRegion
+         id="flowRegion8184"><rect
+           id="rect8186"
+           width="125.19687"
+           height="72.361496"
+           x="-49.389595"
+           y="167.94383"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Medium" /></flowRegion><flowPara
+         id="flowPara8188">- Immobilisation</flowPara><flowPara
+         id="flowPara8190">- Time Matched</flowPara><flowPara
+         id="flowPara8192">- Quenching</flowPara></flowRoot>    <flowRoot
+       transform="translate(271.06848,688.00853)"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Medium"
+       id="flowRoot8194"
+       xml:space="preserve"><flowRegion
+         id="flowRegion8196"><rect
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Medium"
+           y="167.94383"
+           x="-49.389595"
+           height="72.361496"
+           width="125.19687"
+           id="rect8198" /></flowRegion><flowPara
+         id="flowPara8200">- Light Transmission</flowPara><flowPara
+         id="flowPara8202">- Viable</flowPara><flowPara
+         id="flowPara8204">- Light Generation</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8206"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Medium"
+       transform="translate(404.30553,684.56274)"><flowRegion
+         id="flowRegion8208"><rect
+           id="rect8210"
+           width="125.19687"
+           height="72.361496"
+           x="-49.389595"
+           y="167.94383"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Medium" /></flowRegion><flowPara
+         id="flowPara8216">- Light Detection</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8223"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Medium"
+       transform="translate(825.84,161.9519)"><flowRegion
+         id="flowRegion8225"><rect
+           id="rect8227"
+           width="546.73132"
+           height="112.56233"
+           x="-49.389595"
+           y="167.94383"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Medium" /></flowRegion><flowPara
+         id="flowPara8229">Tightly couple the biological process or entity of interest with a light emitting system and an appropriate light detector to enable harmless realtime visualisation and detection of entities or processes as photons.</flowPara></flowRoot>    <flowRoot
+       transform="translate(814.35405,396.26533)"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Medium"
+       id="flowRoot8231"
+       xml:space="preserve"><flowRegion
+         id="flowRegion8233"><rect
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Medium"
+           y="167.94383"
+           x="-49.389595"
+           height="187.22104"
+           width="646.65918"
+           id="rect8235" /></flowRegion><flowPara
+         id="flowPara8237">Light can travel through cells, tissues, and skin, and provides a non-destructive, humane, rapid, and cost effective approach to visualising biological processes. Light as a signal is readily quantified, and can allow simultaneous measurements of different entities if they are associated with different wavelengths. In order to capture spatial information it is necessary to immobilse the sample relative to the target/light source and the detector. In the case of small animals this may be achieved by anesthesia or physical restraint, but needs to be balanced so as to not interfere with the biological process or entities of interest nor the light generation system itself, whilst keeping the system in a stationary, nominally viable state. The system used for light generation needs to be sufficiently bright and of a wavelength tuned to enable transmission through the medium. Light transmission through a medium is wavelength dependent, and impeded by quenching which is influenced by depth or thickness of sample and location of signal, colour of sample, or presence or absence of fur or other barriers that can absorb light. Light generation and sample orientation or handling should be organised to maximise transmission while minimising quenching. To collect dymanic measurements it is essential that the light generation and collection cycles are time matched with the phenomenon of interest. Temperature affects metabolic state and chemical reactions and therefore needs to be controlled to ensure the system is representative of the underlying biology and consistent between samples or measurements. For many light detection systems, quantification is relative and not absolute therefore it is necessary to ensure the same equipment and detection settings are used across an experiment. </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8239"
+       style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="translate(0,-2.988066e-5)"><flowRegion
+         id="flowRegion8241"><rect
+           id="rect8243"
+           width="658.1452"
+           height="29.002037"
+           x="766.11304"
+           y="738.79565"
+           style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+         id="flowPara8253">Wiles, S., Robertson, B. D., Frankel, G., &amp; Kerton, A. (2009). Bioluminescent monitoring of in vivo colonization and clearance dynamics by light-emitting bacteria. In Bioluminescence (pp. 137-153). Humana Press http://link.springer.com/protocol/10.1007/978-1-60327-321-3_12Owusu-Ansah, E., Yavari, A., &amp; Banerjee, U. (2008). A protocol for in vivo detection of reactive oxygen species. Protocol Exchange.doi:10.1038/nprot.2008.23   http://www.nature.com/protocolexchange/protocols/414#/related-articlesBrandenburg, B., Lee, L. Y., Lakadamyali, M., Rust, M. J., Zhuang, X., &amp; Hogle, J. M. (2007).</flowPara><flowPara
+         id="flowPara8255" /><flowPara
+         id="flowPara8257" /><flowPara
+         id="flowPara8259" /></flowRoot>    <flowRoot
+       transform="translate(829.28578,704.08886)"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Medium"
+       id="flowRoot8275"
+       xml:space="preserve"><flowRegion
+         id="flowRegion8277"><rect
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Medium"
+           y="167.94383"
+           x="-49.389595"
+           height="79.253067"
+           width="623.68719"
+           id="rect8279" /></flowRegion><flowPara
+         id="flowPara8281">Generating Light? -  there are multiple ways to use light as a proxy/signal in biological systems.... fluorescence, absorbance, luminescence. +/- exogenous substrate, toxicity, constitutive, transient, conditional   #is_used_by_this_pattern</flowPara><flowPara
+         id="flowPara8283" /></flowRoot>    <image
+       y="963.35205"
+       x="743.93628"
+       id="image8293"
+       xlink:href="data:image/png;base64,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
+ehAvMJT/AknTmR7uXMGJAAAAAElFTkSuQmCC
+"
+       height="31"
+       width="88" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="835.22577"
+       y="975.18524"
+       id="text8296"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8298"
+         x="835.22577"
+         y="975.18524">Cameron McLean, Siouxsie Wiles</tspan></text>
+  </g>
+</svg>

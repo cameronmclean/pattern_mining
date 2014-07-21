@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -14,7 +15,7 @@
    id="svg7031"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="problem_description.svg">
+   sodipodi:docname="problem_description_example.svg">
   <defs
      id="defs3" />
   <sodipodi:namedview
@@ -27,7 +28,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
      inkscape:cx="417.28137"
-     inkscape:cy="646.83428"
+     inkscape:cy="189.69142"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="753"
@@ -43,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -169,5 +170,34 @@
          id="tspan7213"
          x="347.14285"
          y="133.79076">Biophotonic Imaging</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="170.2218"
+       y="986.66223"
+       id="text8154"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="170.2218"
+         y="986.66223"
+         id="tspan8160">Icons from the Noun Project  CC-BY - Rat, Timothy Dilich - Light bulb, Chris Brunskill</tspan></text>
+    <image
+       y="958.59937"
+       x="78.253609"
+       id="image8293"
+       xlink:href="data:image/png;base64,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 ehAvMJT/AknTmR7uXMGJAAAAAElFTkSuQmCC "
+       height="31"
+       width="88" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="169.54309"
+       y="970.43256"
+       id="text8296"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8298"
+         x="169.54309"
+         y="970.43256">Cameron McLean, Siouxsie Wiles</tspan></text>
   </g>
 </svg>
