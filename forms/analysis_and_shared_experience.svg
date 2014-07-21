@@ -34,8 +34,8 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1624"
      inkscape:window-height="1021"
-     inkscape:window-x="151"
-     inkscape:window-y="63"
+     inkscape:window-x="274"
+     inkscape:window-y="55"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -173,13 +173,14 @@
        y="116.43481"
        ry="11.45553" />
     <rect
-       ry="14.904715"
+       ry="10"
        y="536.0014"
        x="749.06604"
        height="395.05106"
        width="686.00024"
        id="rect5605"
-       style="fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.99999994;stroke-opacity:0.23555555" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.99999994;stroke-opacity:0.23555555"
+       rx="10" />
     <flowRoot
        transform="matrix(0.96660192,0,0,1.2007935,-470.98178,889.81122)"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.30222222;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
