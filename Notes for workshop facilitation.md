@@ -24,8 +24,7 @@ experiment.
 >resources, specifying, maintaining, and sharing experimental design. The 
 >capability to navigate and mange the process would be great.
 
-######Chin, G., Schuchardt, K., Myers, J., & Gracio, D. (2000). Participatory 
-######workflow analysis: Unveiling scientific research processes with scientists.
+######Chin, G., Schuchardt, K., Myers, J., & Gracio, D. (2000). Participatory workflow analysis: Unveiling scientific research processes with scientists.
 
 
 
@@ -37,6 +36,8 @@ The notes here are complimentary and _additional_ to the brief instructions on
 the slides.
 
 ##The Presentation (Workshop Guidance)
+
+Note upfront we intend to share the info collected under a CC-BY license.
 
 Introduction to design patterns is kept relatively short - one shouldn't need 
 to become a pattern expert before we dive into extracting expert knowledge and
@@ -76,6 +77,7 @@ can test or improve the clarity of their explanations.
 ###Protocol Pictionary
 This exercise is ~5-10mins
 Encourage abstract thinking, have fun.
+#####Get folks to put their twitter handles on their forms for easy attribution.
 Allow a few mins at the end - 
 Help break the ice by having participants explain to their group what their 
 picture is, the essence of what their protocol does....
@@ -90,13 +92,13 @@ analysis>....)
 
 ###Analysis and Shared Experience
 This exercise is ~15 solo, then a few more minutes collective thinking.
-Here we aim to get at the context, think about the general type of 
+Here we aim to get at the _context_, think about the general type of 
 problem the protocol is an answer to. We start with critical reflection
 from those most familiar with the procedure. We aim to articulate at a 
 higher level, the functional purpose of the protocol, and the context
-around it. In discussion with other group members, who may also have experience
-collect tips and tricks, and scenarios where this type of protocol can be
-used.   
+around it. In discussion with other group members, who may also have 
+experience, we can collect tips and tricks, and scenarios where this 
+type of protocol can be used.   
 
 
 ###Abstracting the 'whats' and 'whys'
@@ -113,6 +115,9 @@ For drawing icons, some concepts are nearly impossible. Google images for ideas
 or nounproject for CC licensed pictograms is a good source for inspiration.
 We don't want to spend too long on the pictograms though - time is limited,
 and elucidating the concepts is more important. 
+
+Note - for some the steps the what and why might be extremely obvious - cool,
+just write a bullet point and move on. :-) 
 
 
 ####Defining the problem
@@ -166,7 +171,7 @@ raw material and knowledge dumps to further shape, and craft into potential
 patterns. 
 
 Ensure to follow up with participants if they indicate the are keen. It's nice 
-to know their efforts are valued, being build on, and helpful. Ideally they can
+to know their efforts are valued, being built on, and helpful. Ideally they can
 contribute and refine things further if they are so motivated. 
 
 
