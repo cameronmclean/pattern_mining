@@ -83,7 +83,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="425.77254"
+     inkscape:cx="312.63546"
      inkscape:cy="224.4766"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -189,7 +189,9 @@
            x="82.14286"
            y="228.07646"
            style="font-size:16px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Apple SD Gothic Neo;-inkscape-font-specification:Apple SD Gothic Neo Light" /></flowRegion><flowPara
-         id="flowPara3907">Here, abstraction refers to the process of finding the most pertinant feature(s) of an entity within the current context, and generalising it beyond the specifc case. We start with a single description of a <flowSpan
+         id="flowPara3907">Here, abstraction refers to the process of finding the <flowSpan
+   style="-inkscape-font-specification:Apple SD Gothic Neo;font-family:Apple SD Gothic Neo;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:16px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+   id="flowSpan6340">most pertinant feature(s)</flowSpan> of an entity within the current context, and generalising it beyond the specifc case. We start with a single description of a <flowSpan
    style="font-style:italic"
    id="flowSpan3928">specific</flowSpan> protocol (preferably one we believe is good) and generalise the key or essential features for <flowSpan
    style="font-style:italic"
@@ -1133,8 +1135,8 @@ AAAAAABAxCst6+VFP9D9xAAAAABJRU5ErkJggg==
            style="font-size:16px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Apple SD Gothic Neo;-inkscape-font-specification:Apple SD Gothic Neo Light"
            y="228.07646"
            x="82.14286"
-           height="302.14291"
-           width="393.57138"
+           height="203.14795"
+           width="407.00641"
            id="rect4070" /></flowRegion><flowPara
          id="flowPara4072">There are many features of sodium azide we could focus on - <flowSpan
    style="font-style:italic"
@@ -1145,7 +1147,7 @@ AAAAAABAxCst6+VFP9D9xAAAAABJRU5ErkJggg==
    id="flowSpan4096">context</flowSpan> is its effect as an inhibitor of bacterial growth. </flowPara><flowPara
          id="flowPara4092" /><flowPara
          id="flowPara4094">We abstract this particular feature and make it an <flowSpan
-   style="font-style:italic"
+   style="font-style:italic;-inkscape-font-specification:Apple SD Gothic Neo Italic;font-family:Apple SD Gothic Neo;font-weight:normal;font-stretch:normal;font-variant:normal;font-size:16px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
    id="flowSpan4098">independent object of thought</flowSpan> that can be (re)applied to other cases or systems.</flowPara><flowPara
          id="flowPara4080" /><flowPara
          id="flowPara4078" /></flowRoot>    <path
