@@ -22,7 +22,7 @@ experiment.
 >Normally we design experiments informally, and specify them in lab books or 
 >loose notes. We need capabilities to assist scientists in identifying 
 >resources, specifying, maintaining, and sharing experimental design. The 
->capability to navigate and mange the process would be great.
+>capability to navigate and manage the process would be great.
 
 ######Chin, G., Schuchardt, K., Myers, J., & Gracio, D. (2000). Participatory workflow analysis: Unveiling scientific research processes with scientists.
 
