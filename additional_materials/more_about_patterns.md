@@ -19,6 +19,8 @@ Additionally, Alexander states
 It remains difficult to briefly summarise design patterns, and a deeper appreciation for what patterns are and aim to do is hard to convey without reading all of Alexanders original works or via direct experience with the practical use and generation of design patterns. However, a further introduction to Alexanders work including some relationships to object-orientated design is given by [5]. Kohls thesis 
 [6] further extends and discusses some of the theoretical aspects of design patterns, and a comprehensive critical review of design patterns from the domain of human-computer interaction (HCI) is given by Dearden and Finlay [7].
 
+Finally, a hacked together example of a design pattern from the 'culinary arts' can be found [here](https://dl.dropboxusercontent.com/u/28869791/cake_pattern.pdf).  :-)
+
 
 1. Alexander, C. (1979). The Timeless Way of Building. Oxford University Press.
 2. Alexander, C., Ishikawa, S., & Silverstein, M. (1977). A Pattern Language. Oxford University Press.
