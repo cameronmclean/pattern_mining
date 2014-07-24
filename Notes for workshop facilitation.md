@@ -116,8 +116,8 @@ or nounproject for CC licensed pictograms is a good source for inspiration.
 We don't want to spend too long on the pictograms though - time is limited,
 and elucidating the concepts is more important. 
 
-Note - for some the steps the what and why might be extremely obvious - cool,
-just write a bullet point and move on. :-) 
+Note - for some of the steps the 'what' and 'why' might be extremely obvious - 
+cool, just write a bullet point and move on. :-) 
 
 
 ####Defining the problem
@@ -153,7 +153,7 @@ approximate.
 
 ###Pattern Template
 Woo Hoo! Were nearly done. Next it remains to try and consolidate all the info
-we have just extracted into a pattern like format. Patterns are more sharable,
+we have just extracted into a pattern like format. Patterns are more shareable,
 critique-able, human friendly to read. 
 
 We need to spend some to justify and explain the rationale and supporting info
