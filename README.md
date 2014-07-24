@@ -20,13 +20,13 @@ ca.mclean@auckland.ac.nz
 ######Things to add to this collection
 	- Intro and workshop slides (inc insructions) DONE!
 	- Paper forms/templates for capturing knowledge DONE!
-	- Supplimentary cheat sheets > context, big ideas, what is a pattern, further reading....
-	- References
+	- Supplimentary cheat sheets > context, big ideas, what is a pattern, further reading.... DONE!
+	- References DONE!
 	- Demo/example templates... DONE!
-	- tools - list or link or include > eg thesaurus, NCI, protocol repos, google scholar, nounproject, google images..
+	- tools - list or link or include > eg thesaurus, NCI, protocol repos, google scholar, nounproject, google images.. DONE!
 	- required but not included list
-		- scrap paper, pens, big paper, post its, ....
-	- Feedback.
+		- scrap paper, pens, big paper, post its, ....DONE!
+	- Feedback.hmmmm
 	- Notes to facilitators DONE!
 	- Managing versioning, licensing etc.. DONE!
 
