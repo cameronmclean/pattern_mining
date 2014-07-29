@@ -26,7 +26,11 @@ experiment.
 
 ######Chin, G., Schuchardt, K., Myers, J., & Gracio, D. (2000). Participatory workflow analysis: Unveiling scientific research processes with scientists.
 
-
+Think about how you search for a cooking recipe or a lab protocol. We typcially
+search through a range of procedues, and see how they vary. What variations or 
+ratios change between versions? What makes one recipe seem better than another?
+Which parts most appy to you, and what you need or are tyring to achieve?...
+This is one examle of the kind of work we aim to support.
 
 We might (will!) have different experiences about what is important for a given 
 protocol. This is good. The point of patterns is to start with experience and
