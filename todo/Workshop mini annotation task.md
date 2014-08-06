@@ -27,7 +27,7 @@ missing? Go back and mine some more....
 - If we tabulate just the annotated text, armed with the pattern and the table,
 is there enough information to re-create the procedure?
 
-- How useful is it to compare the annotated (extracted instances) across 
+- How useful is it to compare the annotated (extracted instances) across your 3
 procedures/different papers?
 
 - Are there pattern concepts that can not be found in the published procedures?
