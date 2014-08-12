@@ -29,7 +29,7 @@ experiment.
 Think about how you search for a cooking recipe or a lab protocol. We typcially
 search through a range of procedues, and see how they vary. What variations or 
 ratios change between versions? What makes one recipe seem better than another?
-Which parts most appy to you, and what you need or are tyring to achieve?...
+Which parts most appy to you, and what do you need or are tyring to achieve?...
 This is one examle of the kind of work we aim to support.
 
 We might (will!) have different experiences about what is important for a given 
@@ -63,6 +63,24 @@ to annotate other protocols.
 
 Some of the activities ask similar questions - it is OK to repeat responses. 
 
+Also, many tasks have a drawing bit - its fun - no matter your drawing ability!
+
+##I think I know less than I thought
+
+Note also, that the tasks may well be challenging. There is no tension or
+need to worry if in front of our collegues we realise we don't know something 
+that we feel we ought to, or if we turn out to be misled about something.
+The 'illusion of knowledge' is a well documented phenomena - unless challenged
+our conceptual and explanatory understanding of even familar things or 
+processes is sketchy and shallow at best. This is a permissive environment, and
+our aim is to uncover where such deeper knowledge can be useful, expose it, and
+make it sharable. 
+
+_Note:_ It might be useful to segregate groups or workshops into similar levels
+of experience / hierarchy to prevent some folks from being afraid to speak up 
+amongst their peers. The Focud Group reference below has good suggestions.
+
+######Lawson, R. (2006). The science of cycology: failures to understand how everyday objects work. Memory & Cognition, 34(8), 1667–1675. 
 
 ###Abstraction
 Merely abstracting and generalising a protocol is not necessarily a pattern.
