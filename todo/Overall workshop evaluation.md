@@ -37,6 +37,5 @@ pattern concepts we uncovered today could be useful? How else would you like the
 knowledge and concepts to be used?
 
 - If lab patterns existed as a wikipedia type site, would you utilise 
-them? Would you potentially comment or contribute in your areas of expertise? 
-If you would contribute, how important is attribution and citeable evidence of
-your 
+them? Would you potentially comment or contribute in your areas of expertise?
+If your contributions could be claimed as citeable outputs?
