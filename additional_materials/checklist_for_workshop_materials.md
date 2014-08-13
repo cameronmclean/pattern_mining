@@ -4,8 +4,9 @@ Checklist for workshop materials
 Ensure to *ask participants to bring*
 - Favourite protocol/procedure
 - review/rationale/deeper methods explanation papers/books (or the internet)
-- 3x examples -> methods descriptions of the type of procedure from differnt
- publications (how should these publications be related other than method type?)
+- 3x examples -> 3 reasonably detailed methods descriptions of the type of 
+  procedure they are expert in from different publications  
+  (how should these publications be related other than method type?)
 
 Bring the following to the workshops...
 

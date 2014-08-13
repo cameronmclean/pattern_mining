@@ -37,7 +37,8 @@ protocol. This is good. The point of patterns is to start with experience and
 work towards more objective, testable, and deeper truths.
 
 The notes here are complimentary and _additional_ to the brief instructions on 
-the slides.
+the slides. The idea is people can look between sheets, the screen, ask each 
+other and the facilitator about guidance for the task.
 
 ##The Presentation (Workshop Guidance)
 
@@ -70,15 +71,24 @@ Also, many tasks have a drawing bit - its fun - no matter your drawing ability!
 Note also, that the tasks may well be challenging. There is no tension or
 need to worry if in front of our collegues we realise we don't know something 
 that we feel we ought to, or if we turn out to be misled about something.
+
 The 'illusion of knowledge' is a well documented phenomena - unless challenged
 our conceptual and explanatory understanding of even familar things or 
 processes is sketchy and shallow at best. This is a permissive environment, and
 our aim is to uncover where such deeper knowledge can be useful, expose it, and
-make it sharable. 
+make it sharable. (Make important knowledge that is currently not eaisily 
+accesible, available)
+
+Show bicycle drawing figure. Familiar object - 40-60% of people tested drew a 
+bicyle that could not function. Even experts had difficulty (10% got it wrong).
+
+We often only keep a minimal understanding (just enough to get by) because of 
+our limited cognitve processing and storage cababilites. 
 
 _Note:_ It might be useful to segregate groups or workshops into similar levels
 of experience / hierarchy to prevent some folks from being afraid to speak up 
-amongst their peers. The Focud Group reference below has good suggestions.
+amongst their peers. The Focus Group reference at the end of this doc has good
+suggestions.
 
 ######Lawson, R. (2006). The science of cycology: failures to understand how everyday objects work. Memory & Cognition, 34(8), 1667–1675. 
 
@@ -141,6 +151,14 @@ and elucidating the concepts is more important.
 Note - for some of the steps the 'what' and 'why' might be extremely obvious - 
 cool, just write a bullet point and move on. :-) 
 
+Most importantly, start with materials or processes that are directly related 
+to the tricky parts of the protocol or areas that often need optimisation. 
+Cover these entities first and then work out from there.
+
+When it comes to the 'whys' - use experience/own knowledge first, then consult
+review articles and technical literature or other online sources. We want to do
+both bottom up and top down thinking here.
+
 
 ####Defining the problem
 This gets us closer to the true forces. The problem defines the field of 
@@ -161,6 +179,13 @@ happy.
 We want to try and sketch out here all the 'forces' involved in the procedure
 and show which ones interact.
 
+The key is to first place all the forces on the page, then add connections that
+show realtionships between forces. It is important to name both the _force_, 
+and the _relationships_. Show _how_ the forces interact. The relationships 
+between forces may be directed - singly or bidirectional. Use your experience,
+and consult the literature/internet/peers to elucidate how the forces interact
+or explain the rationale. 
+
 Our protocol solves a problem, the 'forces' are the things that shape the 
 problem _and_ its solution. They are the things we have to address.
 
@@ -168,9 +193,27 @@ As with the previous section, nounproject and google images can be used to
 inspire quick icon sketches. 
 
 Precisely defining how all the forces can interact can be difficult.
-Sometimes its a maximally connected graph.
-The connections don't have to be perfect for our purposes, just try and 
-approximate. 
+Sometimes its a maximally connected graph. Just try your best.
+
+
+###Annotate examples
+Here we take the forces that we have mapped out and attempt to annotate 
+by hand (using coloured pens) sections of published methods descriptions in 
+papers that correspond to the individual forces. 
+
+The idea is to highlight which parts of the method description are examples
+of how a particular procedure dealt with the various forces at play.
+
+Use the example forms to get an idea...
+
+Having marked up some examples, we proceed to quickly fill in a grid of
+force vs extracted example texts. We can then evalute if we are extracting
+useful information and concepts, and how complete both our set of forces and
+explanations are. 
+
+From here, having seen what we can cover and explain, we might need to go back
+to any of the earlier steps and add more concepts, modify relationships, 
+details etc to improve the coverage and justification.
 
 
 ###Pattern Template
@@ -182,7 +225,8 @@ We need to spend some to justify and explain the rationale and supporting info
 for the important elements - to show that our pattern is recurring, general and
 "real". The rationale is also critical to help others understand 'why', to 
 apply the pattern themselves, and provide scientific evidence from the 
-literature so we can justify the pattern concepts and test them.
+literature so we can justify the pattern concepts and test them. Document what
+additional sources of information were used in construcnting the pattern. 
 
 
 ###Done!
@@ -192,7 +236,7 @@ And design pictograms, etc. Still lots to do, but we should now have plenty of
 raw material and knowledge dumps to further shape, and craft into potential
 patterns. 
 
-Ensure to follow up with participants if they indicate the are keen. It's nice 
+Ensure to follow up with participants if they indicate they are keen. It's nice 
 to know their efforts are valued, being built on, and helpful. Ideally they can
 contribute and refine things further if they are so motivated. 
 
