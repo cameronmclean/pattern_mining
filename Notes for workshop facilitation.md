@@ -66,6 +66,28 @@ Some of the activities ask similar questions - it is OK to repeat responses.
 
 Also, many tasks have a drawing bit - its fun - no matter your drawing ability!
 
+Suggested times for each activity (minimum)
+Assuming a 3hr workshop.
+
+Intro - 10mins
+Protocol Pictionary - 5 + 5
+Analysis and experience - 15 + 5
+Whats and whys - 20 + 10min break
+Problem definition - 5
+force map - 20m + 10min break
+Annotation - 10 + 10 + 5 + 10 min break
+re-iterate - 15
+survey - 10
+spare = 10min
+
+Note -> this schedule is probably too compressed. We leave out final pattern
+description when short for time - as this can be reconstructed from eariler
+tasks later...
+Ensure people feel comportable to go back to eariler tasks where more info or 
+thought is needed. It's not a race where everyone needs to keep up or try and
+finish (although we have a tension as we want to try and get close to the end
+with the time alloted). 
+
 ##I think I know less than I thought
 
 Note also, that the tasks may well be challenging. There is no tension or
@@ -80,7 +102,7 @@ make it sharable. (Make important knowledge that is currently not eaisily
 accesible, available)
 
 Show bicycle drawing figure. Familiar object - 40-60% of people tested drew a 
-bicyle that could not function. Even experts had difficulty (10% got it wrong).
+bicycle that could not function. Even experts had difficulty (10% got it wrong).
 
 We often only keep a minimal understanding (just enough to get by) because of 
 our limited cognitve processing and storage cababilites. 
@@ -90,6 +112,7 @@ of experience / hierarchy to prevent some folks from being afraid to speak up
 amongst their peers. The Focus Group reference at the end of this doc has good
 suggestions.
 
+The varient of the bicycle drawing test was taken from
 ######Lawson, R. (2006). The science of cycology: failures to understand how everyday objects work. Memory & Cognition, 34(8), 1667–1675. 
 
 ###Abstraction
