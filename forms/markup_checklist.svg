@@ -665,7 +665,9 @@
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Apple SD Gothic Neo;-inkscape-font-specification:Apple SD Gothic Neo"
          id="flowPara8618">Looking <flowSpan
    style="font-size:14px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Apple SD Gothic Neo;-inkscape-font-specification:Apple SD Gothic Neo"
-   id="flowSpan8642">down</flowSpan> each set of extracted terms from an example paper, and considering the force map you generated earlier, do any <flowSpan
+   id="flowSpan8642">down</flowSpan> each set of extracted terms from an example paper, and considering the <flowSpan
+   style="font-style:italic"
+   id="flowSpan7005">force map</flowSpan> you generated earlier, do any <flowSpan
    style="font-style:italic"
    id="flowSpan5412">relationships bettween forces</flowSpan> help explain or reveal any <flowSpan
    style="font-style:italic"
@@ -1121,5 +1123,5 @@
            height="249.13126"
            x="336.0116"
            y="747.16711" /></flowRegion><flowPara
-         id="flowPara5850"></flowPara></flowRoot>  </g>
+         id="flowPara5850" /></flowRoot>  </g>
 </svg>
