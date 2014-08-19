@@ -177,10 +177,13 @@ cool, just write a bullet point and move on. :-)
 Most importantly, start with materials or processes that are directly related 
 to the tricky parts of the protocol or areas that often need optimisation. 
 Cover these entities first and then work out from there.
+It helps to ask what _must we do_ for the protocol to work (proabably all the 
+steps) but start with the critical or tricky ones. Ask "What happens if I 
+delete this step?" and reason from there.
 
 When it comes to the 'whys' - use experience/own knowledge first, then consult
 review articles and technical literature or other online sources. We want to do
-both bottom up and top down thinking here.
+both bottom up (first) and top down thinking here.
 
 
 ####Defining the problem
