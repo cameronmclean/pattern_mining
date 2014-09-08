@@ -11,7 +11,7 @@ Ensure to *ask participants to bring*
 Bring the following to the workshops...
 
 - Lots of blank templates/handout sheets
-- Example sheets - one set per table/group
+- Example sheets! - one set per table/group
 - Pens, pencils, coloured felt pens...
 - Post it notes
 - Whiteboard markers
@@ -19,3 +19,5 @@ Bring the following to the workshops...
 - Name stickers
 - Food and snacks!
 - Water!
+- Other pattern examples from different domains, inc. Chris Alexanders books.
+

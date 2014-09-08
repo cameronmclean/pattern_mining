@@ -26,11 +26,11 @@ experiment.
 
 ######Chin, G., Schuchardt, K., Myers, J., & Gracio, D. (2000). Participatory workflow analysis: Unveiling scientific research processes with scientists.
 
-Think about how you search for a cooking recipe or a lab protocol. We typcially
-search through a range of procedues, and see how they vary. What variations or 
+Think about how you search for a cooking recipe or a lab protocol. We typically
+search through a range of procedures, and see how they vary. What variations or 
 ratios change between versions? What makes one recipe seem better than another?
-Which parts most appy to you, and what do you need or are tyring to achieve?...
-This is one examle of the kind of work we aim to support.
+Which parts most appy to you, and what do you need or are trying to achieve?...
+This is one example of the kind of work we aim to support.
 
 We might (will!) have different experiences about what is important for a given 
 protocol. This is good. The point of patterns is to start with experience and
@@ -81,9 +81,9 @@ survey - 10
 spare = 10min
 
 Note -> this schedule is probably too compressed. We leave out final pattern
-description when short for time - as this can be reconstructed from eariler
+description when short for time - as this can be reconstructed from earlier
 tasks later...
-Ensure people feel comportable to go back to eariler tasks where more info or 
+Ensure people feel comfortable to go back to earlier tasks where more info or 
 thought is needed. It's not a race where everyone needs to keep up or try and
 finish (although we have a tension as we want to try and get close to the end
 with the time alloted). 
@@ -91,21 +91,21 @@ with the time alloted).
 ##I think I know less than I thought
 
 Note also, that the tasks may well be challenging. There is no tension or
-need to worry if in front of our collegues we realise we don't know something 
+need to worry if in front of our colleagues we realise we don't know something 
 that we feel we ought to, or if we turn out to be misled about something.
 
 The 'illusion of knowledge' is a well documented phenomena - unless challenged
-our conceptual and explanatory understanding of even familar things or 
+our conceptual and explanatory understanding of even familiar things or 
 processes is sketchy and shallow at best. This is a permissive environment, and
 our aim is to uncover where such deeper knowledge can be useful, expose it, and
-make it sharable. (Make important knowledge that is currently not eaisily 
-accesible, available)
+make it sharable. (Make important knowledge that is currently not easily 
+accessible, available)
 
 Show bicycle drawing figure. Familiar object - 40-60% of people tested drew a 
 bicycle that could not function. Even experts had difficulty (10% got it wrong).
 
 We often only keep a minimal understanding (just enough to get by) because of 
-our limited cognitve processing and storage cababilites. 
+our limited cognitive processing and storage capabilities. 
 
 _Note:_ It might be useful to segregate groups or workshops into similar levels
 of experience / hierarchy to prevent some folks from being afraid to speak up 
@@ -153,7 +153,8 @@ from those most familiar with the procedure. We aim to articulate at a
 higher level, the functional purpose of the protocol, and the context
 around it. In discussion with other group members, who may also have 
 experience, we can collect tips and tricks, and scenarios where this 
-type of protocol can be used.   
+type of protocol can be used. Consider if it is important to have certain
++ve or -ve controls. Why?   
 
 
 ###Abstracting the 'whats' and 'whys'
@@ -176,7 +177,10 @@ cool, just write a bullet point and move on. :-)
 
 Most importantly, start with materials or processes that are directly related 
 to the tricky parts of the protocol or areas that often need optimisation. 
-Cover these entities first and then work out from there.
+Cover these entities first and then work out from there. Note: some of the 
+'tricky' parts of the protocol many not be explicitly stated in the standard
+steps. 
+
 It helps to ask what _must we do_ for the protocol to work (proabably all the 
 steps) but start with the critical or tricky ones. Ask "What happens if I 
 delete this step?" and reason from there.
@@ -233,13 +237,15 @@ of how a particular procedure dealt with the various forces at play.
 Use the example forms to get an idea...
 
 Having marked up some examples, we proceed to quickly fill in a grid of
-force vs extracted example texts. We can then evalute if we are extracting
+force vs extracted example texts. We can then evaluate if we are extracting
 useful information and concepts, and how complete both our set of forces and
 explanations are. 
 
 From here, having seen what we can cover and explain, we might need to go back
 to any of the earlier steps and add more concepts, modify relationships, 
-details etc to improve the coverage and justification.
+details etc to improve the coverage and justification. To improve our pattern 
+concepts, try and make them fit our troubleshooting and optimisation from
+'analysis and shared experience'.
 
 
 ###Pattern Template
@@ -252,7 +258,7 @@ for the important elements - to show that our pattern is recurring, general and
 "real". The rationale is also critical to help others understand 'why', to 
 apply the pattern themselves, and provide scientific evidence from the 
 literature so we can justify the pattern concepts and test them. Document what
-additional sources of information were used in construcnting the pattern. 
+additional sources of information were used in constructing the pattern. 
 
 
 ###Done!
